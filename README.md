@@ -1,2 +1,5 @@
 # hello-world
-first repository
+
+Hello,
+
+I am learning Html, Css, Javacript, and Bootstrap...
